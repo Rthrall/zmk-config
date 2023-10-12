@@ -1,0 +1,9 @@
+file_format: "1"
+id: raidhopad
+name: raidhopad
+type: shield
+url: https://grav.subraidho.work/raidho
+requires: [pro_micro]
+features:
+  - keys
+  - display

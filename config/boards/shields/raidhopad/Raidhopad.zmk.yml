@@ -1,0 +1,10 @@
+file_format: "1"
+id: Raidhopad
+name: Raidhopad
+type: shield
+url: https://mechwild.com/product/Raidhopad
+requires: [pro_micro]
+exposes: [i2c_oled]
+features:
+  - keys
+  - display

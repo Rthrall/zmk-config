@@ -1,8 +1,8 @@
 file_format: "1"
-id: Raidhopad
-name: Raidhopad
+id: raidhopad
+name: raidhopad
 type: shield
-url: https://mechwild.com/product/Raidhopad
+url: https://mechwild.com/product/raidhopad
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
